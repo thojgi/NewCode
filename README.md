@@ -1,5 +1,5 @@
 # NewCode
-This is how to test the code (on Gitbash)
+This is how to test the code in a terminal
 
 git clone https://github.com/thojgi/NewCode.git
 
